@@ -1,0 +1,35 @@
+
+section{
+    width: 100%;
+    max-width: 300px;
+    margin: 300px auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+    border-radius: 10px;
+}
+h2{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+input,
+select{
+    width: 250px;
+    height: 30px;
+    border: 1px solid whitesmoke;
+    outline: none;
+    border-radius: 10px;
+}
+select{
+    width: 100px;
+    margin-left: 10px;
+    letter-spacing: 2px;
+    border: 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+span{
+    
+    font-size: 20px;
+    font-weight: 1000;
+}
